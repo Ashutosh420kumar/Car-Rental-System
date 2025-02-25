@@ -49,7 +49,7 @@ Start the system and choose an option from the menu:
 ## Example Interaction 🖥️  
 
 ### Renting a Car  
-```mathematica
+
 ====== Welcome in Car Rental System =======
 1. Rent a Car
 2. Return a Car
@@ -58,19 +58,20 @@ Enter your choice: 1
 
 == Rent a Car ==
 
-Enter your name: John Doe
-Available Cars:
-C001 .. Toyota .. Camry .. 60.0
-C002 .. Honda .. Accord .. 70.0
+- Enter your name: John Doe
+- Available Cars:
+- C001 .. Toyota .. Camry .. 60.0
+- C002 .. Honda .. Accord .. 70.0
 
-Enter the car ID you want to rent: C001
-Enter your number of days for rent: 3
-Total Price: $180.00
+- Enter the car ID you want to rent: C001
+- Enter your number of days for rent: 3
+- Total Price: $180.00
 
-Confirm rental (Y/N): Y
-Car rented successfully!
+- Confirm rental (Y/N): Y
+- Car rented successfully!
+
 ### Returning a Car
-```mathematica
+
 ====== Welcome in Car Rental System =======
 1. Rent a Car
 2. Return a Car
@@ -79,7 +80,12 @@ Enter your choice: 2
 
 == Return a Car ==
 
-Enter your name: John Doe
-Enter the car ID you want to return: C001
+- Enter the car ID you want to return: C001
 
-Car returned successfully by John Doe
+- Car returned successfully by John Doe
+  
+---
+## Future Enhancements 🚀
+- 🖥️ GUI Integration for a better user experience.
+- 🛢️ Database Connectivity for storing cars, customers, and rentals persistently.
+- 📱 Web or Mobile App Extension to enable remote car bookings.
