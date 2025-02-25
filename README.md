@@ -60,8 +60,8 @@ Enter your choice: 1
 
 - Enter your name: John Doe
 - Available Cars:
-- C001 .. Toyota .. Camry .. 60.0
-- C002 .. Honda .. Accord .. 70.0
+- C001 - Toyota -- Camry -- 60.0
+- C002 - Honda - Accord - 70.0
 
 - Enter the car ID you want to rent: C001
 - Enter your number of days for rent: 3
